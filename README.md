@@ -57,7 +57,11 @@ The script will output the accuracy of the model and display a comparison of act
 Example Output
 
 accuracy = 0.95
+
   Actual     Predicted
+  
 0 ) M       B
+
 1 ) B       M
+
 ...
